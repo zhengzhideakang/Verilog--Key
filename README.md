@@ -2,7 +2,7 @@
 
 模块框图：
 
-![keyEliminateJitter](https://picgo-dakang.oss-cn-hangzhou.aliyuncs.com/img/keyEliminateJitter.png)
+![keyEliminateJitter](https://picgo-dakang.oss-cn-hangzhou.aliyuncs.com/img/keyEliminateJitter.svg)
 
 其余请参考：
 
